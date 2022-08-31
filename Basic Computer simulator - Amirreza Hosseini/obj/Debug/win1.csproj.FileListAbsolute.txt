@@ -1,0 +1,76 @@
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.exe.config
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.exe
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.pdb
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csprojAssemblyReference.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.Properties.Resources.resources
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csproj.GenerateResource.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csproj.CoreCompileInputs.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.exe
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.pdb
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v1\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v2\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\V3\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v4\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v5\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\bin\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\bin\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\V6\farkoo-Simulator-master\obj\Debug\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\bin\Debug\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Debug\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Debug\win1.pdb

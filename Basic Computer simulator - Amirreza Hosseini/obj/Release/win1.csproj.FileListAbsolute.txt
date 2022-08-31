@@ -1,0 +1,9 @@
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.exe.config
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.pdb
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.csprojResolveAssemblyReference.cache
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.Form1.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.Properties.Resources.resources
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.csproj.GenerateResource.Cache
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.exe
+F:\in progress\Computer architecture\project\farkoo_worked\v7\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.pdb
